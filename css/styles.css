@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+.divider{
+   // background-color: grey;
+}
+#intro{
+    background-image: url('../img/unsplash-NuFUbftUu_s-unsplash.jpg');
+    height: 400px;
+}
+@media(min-width:576px){
+    #intro{
+        height: 600px;
+    }
+}
